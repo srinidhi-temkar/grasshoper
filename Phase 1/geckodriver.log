@@ -1,0 +1,1252 @@
+1587933001547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofiletmFS4v"
+1587933006307	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587933007521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587933007521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587933007521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587933007521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587933016148	Marionette	INFO	Listening on port 49837
+1587933016681	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11696, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 11696, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+1587933121617	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1587933160621	Marionette	INFO	Stopped listening on port 49837
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ission: networkStatus
+1587933149575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587933149575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587933149575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587933149575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587933153225	Marionette	INFO	Listening on port 49945
+1587933153546	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10480, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 10480, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: A content-only TDR is detected.
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.en.aNSa8BC5pj0.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/rt=j/d=1/rs=ACT90oEUDbTvUfkcbQjbJCpi3FOM8svv4g, line 657: Error: Script terminated by timeout at:
+_.Kw@https://www.google.com/maps/_/js/k=maps.m.en.aNSa8BC5pj0.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/rt=j/d=1/rs=ACT90oEUDbTvUfkcbQjbJCpi3FOM8svv4g:657:128
+Occ@/maps/_/js/k=maps.m.en.aNSa8BC5pj0.O/m=vwr,vd,a,owc,ob,sp,en,smi,sc,vlg,log,smr,as,wrc/rt=j/d=1/ed=1/exm=sc2,per,mo,lp,ti,ds,stx,bom,b/rs=ACT90oEUDbTvUfkcbQjbJCpi3FOM8svv4g:3666:68
+Ncc.prototype.T@/maps/_/js/k=maps.m.en.aNSa8BC5pj0.O/m=vwr,vd,a,owc,ob,sp,en,smi,sc,vlg,log,smr,as,wrc/rt=j/d=1/ed=1/exm=sc2,per,mo,lp,ti,ds,stx,bom,b/rs=ACT90oEUDbTvUfkcbQjbJCpi3FOM8svv4g:3665:231
+Ncc/<@/maps/_/js/k=maps.m.en.aNSa8BC5pj0.O/m=vwr,vd,a,owc,ob,sp,en,smi,sc,vlg,log,smr,as,wrc/rt=j/d=1/ed=1/exm=sc2,per,mo,lp,ti,ds,stx,bom,b/rs=ACT90oEUDbTvUfkcbQjbJCpi3FOM8svv4g:3665:135
+Fwa@https://www.google.com/maps/_/js/k=maps.m.en.aNSa8BC5pj0.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/rt=j/d=1/rs=ACT90oEUDbTvUfkcbQjbJCpi3FOM8svv4g:534:492
+Ewa@https://www.google.com/maps/_/js/k=maps.m.en.aNSa8BC5pj0.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/rt=j/d=1/rs=ACT90oEUDbTvUfkcbQjbJCpi3FOM8svv4g:535:502
+c@/maps/_/js/k=maps.m.en.aNSa8BC5pj0.O/m=vwr,vd,a,owc,ob,sp,en,smi,sc,vlg,log,smr,as,wrc/rt=j/d=1/ed=1/exm=sc2,per,mo,lp,ti,ds,stx,bom,b/rs=ACT90oEUDbTvUfkcbQjbJCpi3FOM8svv4g:3847:256
+Cwa/b<@https://www.google.com/maps/_/js/k=maps.m.en.aNSa8BC5pj0.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/rt=j/d=1/rs=ACT90oEUDbTvUfkcbQjbJCpi3FOM8svv4g:531:53
+
+1587933819123	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587933821755	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+WebGL(0000027E3E893000)::ForceLoseContext
+WebGL(0000027E3E895000)::ForceLoseContext
+[Parent 10480, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1587934240138	Marionette	INFO	Stopped listening on port 49945
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+workStatus
+1587934220592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587934220592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587934220592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587934220592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587934222856	Marionette	INFO	Listening on port 50329
+1587934223310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587934374492	Marionette	INFO	Stopped listening on port 50329
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587934294060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587934294060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587934294060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587934294060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587934296072	Marionette	INFO	Listening on port 50373
+1587934296397	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587934372047	Marionette	INFO	Stopped listening on port 50373
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587934330930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587934330930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587934330930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587934330930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587934333850	Marionette	INFO	Listening on port 50413
+1587934334023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587934334056	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587934334131	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 14192, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 14192, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x8000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x8000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+[Parent 14192, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1587934501730	Marionette	INFO	Stopped listening on port 50413
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rmission: telemetry
+1587934434696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587934434696	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587934436980	Marionette	INFO	Listening on port 50508
+1587934437156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587934437220	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587934437266	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 9276, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 9276, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[GFX1-]: GFX: D3D11 detected a device reset in Present
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+1587934530404	Marionette	INFO	Stopped listening on port 50508
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587934533819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofiletsqw9i"
+1587934536639	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587934538539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587934538539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587934538539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587934538539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587934541556	Marionette	INFO	Listening on port 50596
+1587934541737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587934541777	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587934541798	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 6200, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 6200, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: A content-only TDR is detected.
+WebGL(0000020039B7E800)::ForceLoseContext
+WebGL(0000020039B7E800)::ForceRestoreContext
+JavaScript error: https://www.google.com/maps/_/js/k=maps.m.en.aNSa8BC5pj0.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/rt=j/d=1/rs=ACT90oEUDbTvUfkcbQjbJCpi3FOM8svv4g, line 1000: Error: 
+1587935213732	Marionette	INFO	Stopped listening on port 50596
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587935214697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587935214697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587935214697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587935214697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587935216891	Marionette	INFO	Listening on port 50707
+1587935217071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587935217111	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587935217171	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 4556, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 4556, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[Parent 4556, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1587936142805	Marionette	INFO	Stopped listening on port 50707
+\\Temp\\rust_mozprofile4qj1oR"
+1587935740874	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587935742229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587935742229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587935742229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587935742229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587935744394	Marionette	INFO	Listening on port 50823
+1587935744422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587935744464	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587935744499	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 6824, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 6824, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[Child 1588, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+1587936143648	Marionette	INFO	Stopped listening on port 50823
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587936150165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofileWG5oss"
+1587936152568	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587936154353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587936154353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587936154353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587936154353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587936158197	Marionette	INFO	Listening on port 50942
+1587936158526	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587936158573	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587936158598	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 8636, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 8636, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: A content-only TDR is detected.
+1587938693318	Marionette	INFO	Stopped listening on port 50942
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Cha1587938693486	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587938694744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587938694745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587938694745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587938694745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587938697266	Marionette	INFO	Listening on port 51868
+1587938697619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587938697660	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587938697683	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 6348, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 6348, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[GFX1]: Failed to create Pbuffer surface error: 0x300e Size : Size(1920,910)
+WebGL(000001C334C1C000)::ForceLoseContext
+WebGL(000001C334C1C000)::ForceRestoreContext
+JavaScript error: https://www.google.com/maps/_/js/k=maps.m.en.aNSa8BC5pj0.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/rt=j/d=1/rs=ACT90oEUDbTvUfkcbQjbJCpi3FOM8svv4g, line 1000: Error: 
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587938812187	Marionette	INFO	Stopped listening on port 51868
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAn1587938813326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587938813326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587938813326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587938813326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587938815228	Marionette	INFO	Listening on port 52009
+1587938815662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587938815694	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587938815781	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 12952, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 12952, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 352: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/ModulesPing.jsm, line 70: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]'[JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]' when calling method: [nsIUpdateTimerManager::registerTimer]
+1587938874581	Marionette	INFO	Stopped listening on port 52009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587938878778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofile21sEPV"
+1587938879398	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587938880656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587938880656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587938880656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587938880656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587938882966	Marionette	INFO	Listening on port 52084
+1587938883007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587938883054	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587938883069	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 5492, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 5492, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: A content-only TDR is detected.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: A content-only TDR is detected.
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+[GFX1]: texImage2D: Unexpected error <enum 0x0507> during upload. (dui: 1908/1908/1401)
+WebGL(00000255E3F6E000)::ForceLoseContext
+WebGL(00000255E3F6E000)::ForceRestoreContext
+JavaScript error: https://www.google.com/maps/_/js/k=maps.m.en.aNSa8BC5pj0.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/rt=j/d=1/rs=ACT90oEUDbTvUfkcbQjbJCpi3FOM8svv4g, line 1000: Error: 
+1587940478822	Marionette	INFO	Stopped listening on port 52084
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587940472087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587940472087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587940472087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587940472087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587940478473	Marionette	INFO	Listening on port 52432
+1587940478677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587940478709	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587940478727	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 5740, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 5740, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+1587941486382	Marionette	INFO	Stopped listening on port 52432
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587957637938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofileY6jgG8"
+1587957639993	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587957641204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587957641204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587957641205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587957641205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587957644767	Marionette	INFO	Listening on port 54419
+1587957644868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587957645041	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587957645066	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 1880, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 1880, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1587957979458	Marionette	INFO	Stopped listening on port 54419
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ing manifest: Invalid extension permission: telemetry
+1587957730210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587957730210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587957732318	Marionette	INFO	Listening on port 54492
+1587957732383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587957732420	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587957732444	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+1587957980295	Marionette	INFO	Stopped listening on port 54492
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587957895694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587957895694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587957895694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587957895695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587957899197	Marionette	INFO	Listening on port 54558
+1587957980514	Marionette	INFO	Stopped listening on port 54558
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587957964206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587957964206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587957964207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587957964207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587957966263	Marionette	INFO	Listening on port 54615
+1587957966747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587957966782	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587957966801	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+[Parent 6584, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 6584, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+1587958047956	Marionette	INFO	Stopped listening on port 54615
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587958321732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\suraj\\AppData\\Local\\Temp\\rust_mozprofileIXv5yT"
+1587958324062	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587958326071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587958326071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587958326071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587958326071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587958330295	Marionette	INFO	Listening on port 54778
+1587958330707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587958330852	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587958330867	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 1076, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 1076, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1587958387925	Marionette	INFO	Stopped listening on port 54778
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n: networkStatus
+1587958388194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587958388194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587958388194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587958388194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587958390646	Marionette	INFO	Listening on port 54875
+1587958390710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587958390743	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587958390758	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 4332, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 4332, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+1587958452490	Marionette	INFO	Stopped listening on port 54875
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587958448483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587958448483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587958448483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587958448483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587958451679	Marionette	INFO	Listening on port 54978
+1587958451954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587958451988	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587958452005	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 9876, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 9876, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+]]
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+]]
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 75"  data: no] undefined 75
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:81:9
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:525:36
+]]
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 352: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/ModulesPing.jsm, line 70: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]'[JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]' when calling method: [nsIUpdateTimerManager::registerTimer]
+1587958510729	Marionette	INFO	Stopped listening on port 54978
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+shots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587958499785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587958502784	Marionette	INFO	Listening on port 55090
+1587958503076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587958503109	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587958503124	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 9276, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 9276, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: A content-only TDR is detected.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: A content-only TDR is detected.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: A content-only TDR is detected.
+WebGL(0000028213F5B000)::ForceLoseContext
+WebGL(0000028213F5B000)::ForceRestoreContext
+JavaScript error: https://www.google.com/maps/_/js/k=maps.m.en.aNSa8BC5pj0.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/rt=j/d=1/rs=ACT90oEUDbTvUfkcbQjbJCpi3FOM8svv4g, line 1000: Error: 
+1587958982456	Marionette	INFO	Stopped listening on port 55090
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587958971708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587958971708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587958971708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587958971708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587958974298	Marionette	INFO	Listening on port 55217
+1587958974630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587958974662	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587958974678	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 15372, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 15372, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5280: Error: WebGL warning: copyTexSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+[Parent 15372, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1587959142460	Marionette	INFO	Stopped listening on port 55217
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587959081865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587959081865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587959081866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587959081866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587959084449	Marionette	INFO	Listening on port 55320
+1587959084838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587959084869	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+1587959084884	addons.webextension.{8b5fde66-c64d-4a33-99f1-c7c94138d67e}	WARN	Loading extension '{8b5fde66-c64d-4a33-99f1-c7c94138d67e}': Reading manifest: Warning processing license: An unexpected property was found in the WebExtension manifest.
+JavaScript error: undefined, line 0: Error: Missing host permission for the tab, and any iframes
+[Parent 15440, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 15440, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1295 > scriptElement, line 5269: Error: WebGL warning: texSubImage2D: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1587959143170	Marionette	INFO	Stopped listening on port 55320
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
